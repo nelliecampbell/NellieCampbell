@@ -5,5 +5,7 @@ I leverage advanced analytics to make insightful and actionable decisions that s
 Cloud ☁️ : Google Cloud (Big Query, Data Fusion, Storage Bucket), Microsoft Fabric (Lakehouse, data pipelines, semantic models)
 Data Analysis Tools💻: Tableau, PowerBI, SQL, Python, MS Excel 
 
+AI : Claude Code
+
 Certifications & Degrees 🎓 : Google Advanced Data Analytics, Generative AI for Data Analysts, Epic Cogito, MS in Biomedical Informatics, Bsc in Biochemistry
 
