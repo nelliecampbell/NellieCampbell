@@ -9,3 +9,5 @@ AI : Claude Code
 
 Certifications & Degrees 🎓 : Google Advanced Data Analytics, Generative AI for Data Analysts, Epic Cogito, MS in Biomedical Informatics, Bsc in Biochemistry
 
+Linkedin https://www.linkedin.com/in/nelliecampbell/
+
